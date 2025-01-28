@@ -1,2 +1,4 @@
 # dove_vtext
-Pseudocode for the Diagnostic Delay of VTE (DOVE) study.
+NLP pseudocode for the Diagnostic Delay of VTE (DOVE) study.
+
+For those interested in learning more, please contact us at BWHMTERMS@bwh.harvard.edu.
